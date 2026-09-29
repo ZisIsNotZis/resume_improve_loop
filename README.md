@@ -1,5 +1,9 @@
 # resume_improve_loop
 
+> **Status: closed (milestone, 2026-09-29).** A complete multi-reviewer resume
+> improvement loop. The owner maintains it directly; no further development is
+> planned unless the project's inputs or goals change.
+
 An **adversarial, multi-reviewer improvement loop** for a resume (or any
 document you are trying to sharpen). Each round, a panel of independent
 *personas* screens the same text from a different angle, scores it, and quotes
