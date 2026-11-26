@@ -4,6 +4,8 @@
 
 # resume_improve_loop
 
+**项目状态 · 已完成（2026-11-26）**。原范围是独立评委打分与聚合 CLI。固定提交 4 项自测通过；9 个评委通过本地合成子进程完成两轮，比分相同后在上限 3 轮之前按阈值停止。没有验证真人评审价值。 [验收记录](COMPLETION.md)。
+
 Run a panel of hostile, independent reviewers over a resume — or any document —
 and watch the scores converge.
 
